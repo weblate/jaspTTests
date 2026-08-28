@@ -6,6 +6,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_Hans\n"
 "X-Qt-Contexts: true\n"
+"PO-Revision-Date: 2026-08-29 02:35+0000\n"
+"Last-Translator: daiange <351684745@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/jasp/jaspttests-qml/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 msgctxt "Description|"
 msgid "T-Tests"
@@ -523,6 +529,7 @@ msgctxt "BarPlots|"
 msgid "Bar plots"
 msgstr "条形图"
 
+#, fuzzy
 msgctxt "BarPlots|"
 msgid "Confidence interval"
 msgstr "置信区间"
@@ -531,9 +538,10 @@ msgctxt "BarPlots|"
 msgid "Credible interval"
 msgstr "可信区间"
 
+#, fuzzy
 msgctxt "BarPlots|"
 msgid "Standard error"
-msgstr "标准误差"
+msgstr "标准误"
 
 msgctxt "BarPlots|"
 msgid "Fix horizontal axis to 0"
